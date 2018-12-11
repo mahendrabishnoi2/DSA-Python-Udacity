@@ -50,5 +50,5 @@ me.addItem("monocle")
 print me.getClassiness()
 
 me.addItem("bowtie")
-# Should be 15
+# Should be 15 ##
 print me.getClassiness()
